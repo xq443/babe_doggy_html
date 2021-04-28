@@ -13,13 +13,6 @@ Term: Spring 2020
 
 + Shiny Link : https://loving-dogs.shinyapps.io/Group1_Project2/
 
-+ **Team Members**: 
-    + Feng, Kangli (Team Leader) [kf2616@columbia.edu](kf2616@columbia.edu)
-	+ Du, Jinxiao [jd3607@columbia.edu](jd3607@columbia.edu)
-	+ Zhu, Huizhe [hz2657@columbia.edu](hz2657@columbia.edu)
-	+ Lyu, Wenfeng [wl2733@columbia.edu](wl2733@columbia.edu)
-	+ Chen, Shenhan (Presenter) [sc4615@columbia.edu](sc4615@columbia.edu)
-
 + **Project summary**: 
 
 In a city of cramped living quarters, fifth-floor walk-ups and limited access to outdoor space, you may think pets would be a tough sell for New York City residents. Yet roughly 425,000 dogs live in New York City – more dogs than there are people in Oakland, CA.
