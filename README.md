@@ -32,14 +32,6 @@ To develop this project, we referenced the data on NYC Open Data, as well as oth
     + Click the "Summary Statistics" tab, you can view the statistical results about NYC dogs' names and breeds. There are settings available for you to customize the plots. Scroll down and try them out!
     + Other related news and articles can be found in the remaining tabs. Enjoy the journey with us.
 
-
-+ **Contribution statement**:
-    + **Kangli Feng (Team Leader)**: Designed the template for the Shiny App page including html files for `Home` and `About` page. Cleaned, tidied and visualized data of veterinary hospitals and dog runs area. Calculated and displayed estimated distance and time taken to the nearest hospital and park from any given location. Integrated and tidied other teammates’ work. 
-    + **Du, Jinxiao**: Finished the cluster points map of Dog Licenses and heatmap of Dog Licenses both by myself. Processed the data of Dog Licenses and design the format of Map page. Besides, help other members debug.
-    + **Lyu, Wenfeng**: Data cleaning, design the statistics tab and the content format, including the popular nyc dog names by year bar chart, as well as the popular dog breed plotly bar chart. Write up the introduction & R markdown text files, and gathering interesting dog logo!
-    + **Zhu, Huizhe**: Created heat map visualization; Monitored project flow and meeting agenda; Quality control, structuring and restructuring app's organization, text polishing; Data collection and Cleaning.
-    + **Chen, Shenhan (Presenter)**: Data collecting and cleaning for dog bite records, created and generated statistical data summary, designing homepage; Presented project results to over 70 audience.
-
 + **Data Sets Used**:
 
 We used data from NYC Open Data, as well as other open data sources from Google, Github, and Kaggle. Here are some of data sets we used:
